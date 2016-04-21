@@ -6,6 +6,8 @@
 
 #include<stdlib.h>
 
+
+
 void RysujSzachownice();
 
 char line[100];
