@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @@@@@@@#include<stdio.h>fdsfdsf
+=======
+#include<stdio.h>fdsfdsf  zmiany
+>>>>>>> 07559b518998178bb0aafc9c884a78b6b210b3a8
 fdsafd
 #include<string.h>
 
