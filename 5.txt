@@ -5,8 +5,7 @@
 
 #include <math.h>
 #include <gay.h>
-main()da
-zmienaim t¹ linijkê na super nowa linijke ~Emil
+zmienaim tÂ¹ linijkÃª na super nowa linijke ~Emil
 {
 
 int w,l,j,k,i=0,p=0;
