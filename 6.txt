@@ -1,10 +1,11 @@
-//program dzia³a pod Borlandem
+﻿//program dzia³a pod Borlandem
 
 #include<stdio.h>fdsafdasfdsafdas
 
 #include<conio.h>
 
 void main()
+
 
 {
 
