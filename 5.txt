@@ -3,7 +3,10 @@
 #include <emilek.h>23
 #include <math.h>
 #include <gay.h>
+<<<<<<< HEAD
 main()da
+=======
+>>>>>>> remotes/origin/nowa-galaz
 zmienaim t¹ linijkê na super nowa linijke ~Emil
 {
 
