@@ -1,4 +1,4 @@
-		/* liczba = k*BASE + cyfra, gdzie
+		/* liczba = k*BASE + cyfra, gdzie                  **************
 			k = liczba/BASE 
 		(czêœæ ca³kowita z dzielenia).
 		Zatem 
