@@ -1,4 +1,4 @@
-//program dzia³a pod Borlandem
+//program dziaÂ³a pod Borlandem
 
 #include<stdio.h>fdsafdasfdsafdas
 
@@ -9,9 +9,7 @@ void main()
 {
 
 int a=0,b=0,t=0,nwd1=0,nwd2=0,r=0;
-
 int NWD=0;
-
 char temp[10];
 
 FILE *nwd;
@@ -58,7 +56,7 @@ printf("NWD(%d,%d)=%d",nwd1,nwd2,a);
 
 nwd=fopen("nwd.txt","w");
 
-fprintf(nwd,"Najwiêkszy wspolny dzielnik liczb %d i %d wynosi NWD(%d,%d)=%d",nwd1,nwd2,nwd1,nwd2,a);
+fprintf(nwd,"NajwiÃªkszy wspolny dzielnik liczb %d i %d wynosi NWD(%d,%d)=%d",nwd1,nwd2,nwd1,nwd2,a);
 
 fclose(nwd);
 
