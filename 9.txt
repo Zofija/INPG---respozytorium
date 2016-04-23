@@ -14,7 +14,7 @@
 		/* Krok 2: wypisz ostatni¹ cyfrê rozwiniêcia */
 		printf("%X", liczba % BASE); /* wydruk cyfry w formacie hex */
 	}
-}
+	}
  
 int main(void)
 {
