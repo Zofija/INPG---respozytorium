@@ -1,7 +1,6 @@
-//"plik z nazwiskami" i "szukane nazwisko" podajemy jako parametry wywo³ania programu
+//"plik z nazwiskami" i "szukane nazwisko" podajemy jako parametry wywoÂ³ania programu
 
 #include <stdio.h>dsafdsa
-
 int main(int argc, char *argv[])
 
 {
